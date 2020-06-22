@@ -1,8 +1,8 @@
 # Description
 
-![PIUComposite Logo](https://github.com/JapanYoshi/PIUComposite/raw/master/banner.png)
+![PIU Highly Composite Logo](https://github.com/JapanYoshi/PIUComposite/raw/master/logo.png)
 
-Pump It Up: Highly Composite is a chart pack for [StepF2](stepf2.blogspot.com). Its goal is to provide an expansion to the song list without deviating too much from the official charting styles. The target demographic is players who can play between Level 5 and Level 17, though difficulties outside of those are provided. Highly Composite is a sequel to [Pump It Up Composite](https://github.com/JapanYoshi/PIUComposite).
+Pump It Up: Highly Composite is a chart pack for [StepF2](https://stepf2.blogspot.com) or [StepPrime](https://stepprimeofficial.blogspot.com). Highly Composite is a sequel to [Pump It Up Composite](https://github.com/JapanYoshi/PIUComposite), but unlike the prequel, it is not intended to be a balanced chart pack, but a collection of charts I have made over the years. The target demographic is players who can play between Level 5 and Level 17, though difficulties outside of those are provided.
 
 ## Background Videos
 
