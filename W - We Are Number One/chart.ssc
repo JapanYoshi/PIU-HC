@@ -28,7 +28,7 @@
 #SCROLLS:0.000=1.000;
 #LABELS:0.000=Song Start;
 #BGCHANGES:-4.000=bg.png=1.000=0=0=0=StretchNoLoop====,
-0.000=bga.mp4=1.000=0=0=0=StretchNoLoop====,
+0.000=..\_videos\WeAreNumberOne.mp4=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
