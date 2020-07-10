@@ -6,7 +6,7 @@ Pump It Up: Highly Composite is a chart pack for [StepF2](https://stepf2.blogspo
 
 ## Background Videos
 
-Due to large file sizes, background videos will be only available separately on MEGA.
+Due to large file sizes, background videos are only available separately on [Google Drive](https://drive.google.com/drive/u/0/folders/1VwGnsJB2A0v0CXMw5XMeJ-l6MqwT1JMm).
 
 # Installation instructions
 
